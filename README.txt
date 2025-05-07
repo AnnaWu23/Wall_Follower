@@ -59,9 +59,5 @@ This script will:
 - Verify all dependencies are correctly installed
 - It is recommended to run the TurtleBot3 startup script before running the project code script
 
-## Troubleshooting
-
-If you encounter issues:
-1. Check if the ROS2 environment is properly configured
-2. Verify all dependencies are installed
-3. Review terminal output for error messages
+## Demo Video
+[Demo Link](https://www.youtube.com/watch?v=HmwriGd0qZE&ab_channel=YanyunWu)
