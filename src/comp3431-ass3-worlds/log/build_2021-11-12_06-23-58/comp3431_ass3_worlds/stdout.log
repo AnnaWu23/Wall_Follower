@@ -1,0 +1,165 @@
+-- The C compiler identification is GNU 9.3.0
+-- The CXX compiler identification is GNU 9.3.0
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 0.9.8 (/opt/ros/foxy/share/ament_cmake/cmake)
+-- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+-- Using PYTHON_EXECUTABLE: /usr/bin/python3
+-- Found PkgConfig: /usr/bin/pkg-config (found version "0.29.1") 
+-- Checking for module 'bullet>=2.82'
+--   Found bullet, version 2.88
+-- Found ccd: /usr/include (found suitable version "2.0", minimum required is "2.0") 
+-- Found fcl: /usr/include (found suitable version "0.5.0", minimum required is "0.3.2") 
+-- Found assimp: /usr/include (found version "5.0.0") 
+-- Found DART: /usr/include (Required is at least version "6.6") found components: dart 
+-- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.71.0/BoostConfig.cmake (found suitable version "1.71.0", minimum required is "1.40.0") found components: thread system filesystem program_options regex iostreams date_time 
+-- Found Protobuf: /usr/lib/x86_64-linux-gnu/libprotobuf.so;-lpthread (found version "3.6.1") 
+-- Looking for ignition-math6 -- found version 6.8.0
+-- Searching for dependencies of ignition-math6
+-- Looking for OGRE...
+-- OGRE_PREFIX_WATCH changed.
+-- Checking for module 'OGRE'
+--   Found OGRE, version 1.9.0
+-- Found Ogre Ghadamon (1.9.0)
+-- Found OGRE: optimized;/usr/lib/x86_64-linux-gnu/libOgreMain.so;debug;/usr/lib/x86_64-linux-gnu/libOgreMain.so
+-- Looking for OGRE_Paging...
+-- Found OGRE_Paging: optimized;/usr/lib/x86_64-linux-gnu/libOgrePaging.so;debug;/usr/lib/x86_64-linux-gnu/libOgrePaging.so
+-- Looking for OGRE_Terrain...
+-- Found OGRE_Terrain: optimized;/usr/lib/x86_64-linux-gnu/libOgreTerrain.so;debug;/usr/lib/x86_64-linux-gnu/libOgreTerrain.so
+-- Looking for OGRE_Property...
+-- Found OGRE_Property: optimized;/usr/lib/x86_64-linux-gnu/libOgreProperty.so;debug;/usr/lib/x86_64-linux-gnu/libOgreProperty.so
+-- Looking for OGRE_RTShaderSystem...
+-- Found OGRE_RTShaderSystem: optimized;/usr/lib/x86_64-linux-gnu/libOgreRTShaderSystem.so;debug;/usr/lib/x86_64-linux-gnu/libOgreRTShaderSystem.so
+-- Looking for OGRE_Volume...
+-- Found OGRE_Volume: optimized;/usr/lib/x86_64-linux-gnu/libOgreVolume.so;debug;/usr/lib/x86_64-linux-gnu/libOgreVolume.so
+-- Looking for OGRE_Overlay...
+-- Found OGRE_Overlay: optimized;/usr/lib/x86_64-linux-gnu/libOgreOverlay.so;debug;/usr/lib/x86_64-linux-gnu/libOgreOverlay.so
+-- Looking for ignition-math6 -- found version 6.8.0
+-- Looking for ignition-transport8 -- found version 8.2.0
+-- Searching for dependencies of ignition-transport8
+-- Found Protobuf: /usr/lib/x86_64-linux-gnu/libprotobuf.so;-lpthread (found suitable version "3.6.1", minimum required is "3") 
+-- Config-file not installed for ZeroMQ -- checking for pkg-config
+-- Checking for module 'libzmq >= 4'
+--   Found libzmq , version 4.3.2
+-- Found ZeroMQ: TRUE (Required is at least version "4") 
+-- Checking for module 'uuid'
+--   Found uuid, version 2.34.0
+-- Found UUID: TRUE  
+-- Looking for ignition-msgs5 -- found version 5.7.0
+-- Searching for dependencies of ignition-msgs5
+-- Looking for ignition-math6 -- found version 6.8.0
+-- Checking for module 'tinyxml2'
+--   Found tinyxml2, version 6.2.0
+-- Looking for ignition-msgs5 -- found version 5.7.0
+-- Looking for ignition-common3 -- found version 3.13.1
+-- Searching for dependencies of ignition-common3
+-- Looking for dlfcn.h - found
+-- Looking for libdl - found
+-- Found DL: TRUE  
+-- Searching for <ignition-common3> component [graphics]
+-- Looking for ignition-common3-graphics -- found version 3.13.1
+-- Searching for dependencies of ignition-common3-graphics
+-- Looking for ignition-math6 -- found version 6.8.0
+-- Looking for ignition-fuel_tools4 -- found version 4.3.0
+-- Searching for dependencies of ignition-fuel_tools4
+-- Found CURL: /usr/lib/x86_64-linux-gnu/libcurl.so (found version "7.68.0")  
+-- Checking for module 'jsoncpp'
+--   Found jsoncpp, version 1.7.4
+-- Found JSONCPP: TRUE  
+-- Checking for module 'libzip'
+--   Found libzip, version 1.5.1
+-- Found ZIP: TRUE  
+-- Looking for ignition-common3 -- found version 3.13.1
+-- Looking for ignition-msgs5 -- found version 5.7.0
+-- Found gazebo_ros_pkgs: 3.5.3 (/opt/ros/foxy/share/gazebo_ros_pkgs/cmake)
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/build/comp3431_ass3_worlds
+-- Install configuration: ""
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds//launch
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds//launch/house1.launch.py
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds//models
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds//models/dining-room
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds//models/dining-room/materials
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds//models/dining-room/materials/textures
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds//models/dining-room/materials/textures/dining-room_coffee_banana.png
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds//models/dining-room/materials/textures/dining-room.png
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds//models/dining-room/.model.sdf.swp
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds//models/dining-room/model.config
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds//models/dining-room/meshes
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds//models/dining-room/meshes/dining-room.dae
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds//models/dining-room/model.sdf
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds//models/storage-room
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds//models/storage-room/materials
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds//models/storage-room/materials/textures
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds//models/storage-room/materials/textures/storage-room.png
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds//models/storage-room/.model.sdf.swp
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds//models/storage-room/model.config
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds//models/storage-room/meshes
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds//models/storage-room/meshes/storage-room.dae
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds//models/storage-room/model.sdf
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds//models/living-room
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds//models/living-room/materials
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds//models/living-room/materials/textures
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds//models/living-room/materials/textures/living-room.png
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds//models/living-room/.model.sdf.swp
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds//models/living-room/model.config
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds//models/living-room/meshes
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds//models/living-room/meshes/living-room.dae
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds//models/living-room/model.sdf
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds//models/kitchen
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds//models/kitchen/materials
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds//models/kitchen/materials/textures
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds//models/kitchen/materials/textures/kitchen_fanta_apple.png
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds//models/kitchen/materials/textures/kitchen.png
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds//models/kitchen/.model.sdf.swp
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds//models/kitchen/model.config
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds//models/kitchen/meshes
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds//models/kitchen/meshes/kitchen.dae
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds//models/kitchen/model.sdf
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds//models/study
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds//models/study/materials
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds//models/study/materials/textures
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds//models/study/materials/textures/study_orange.png
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds//models/study/materials/textures/study.png
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds//models/study/.model.sdf.swp
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds//models/study/model.config
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds//models/study/meshes
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds//models/study/meshes/study.dae
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds//models/study/model.sdf
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds//models/pantry
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds//models/pantry/materials
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds//models/pantry/materials/textures
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds//models/pantry/materials/textures/pantry.png
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds//models/pantry/.model.sdf.swp
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds//models/pantry/model.config
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds//models/pantry/meshes
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds//models/pantry/meshes/pantry.dae
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds//models/pantry/model.sdf
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds//worlds
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds//worlds/house1.model
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/ament_index/resource_index/package_run_dependencies/comp3431_ass3_worlds
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/ament_index/resource_index/parent_prefix_path/comp3431_ass3_worlds
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds/environment/ament_prefix_path.sh
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds/environment/ament_prefix_path.dsv
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds/environment/path.sh
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds/environment/path.dsv
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds/local_setup.bash
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds/local_setup.sh
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds/local_setup.zsh
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds/local_setup.dsv
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds/package.dsv
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/ament_index/resource_index/packages/comp3431_ass3_worlds
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds/cmake/comp3431_ass3_worldsConfig.cmake
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds/cmake/comp3431_ass3_worldsConfig-version.cmake
+-- Installing: /home/rsa2021/starter_code/src/comp3431-ass3-worlds/install/comp3431_ass3_worlds/share/comp3431_ass3_worlds/package.xml

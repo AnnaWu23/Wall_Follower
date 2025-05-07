@@ -1,0 +1,8 @@
+{
+  "package_name": "comp3431_interfaces",
+  "non_idl_tuples": [
+    "/home/rsa2021/starter_code/src/comp3431_interfaces:msg/QRCodeBlock.msg",
+    "/home/rsa2021/starter_code/src/comp3431_interfaces:srv/MapInfo.srv",
+    "/home/rsa2021/starter_code/src/comp3431_interfaces:action/MoveObjectToRoom.action"
+  ]
+}
